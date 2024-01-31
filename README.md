@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400px" />
 <br>
 
 # Hello, world! 👋
 
 #### Skills:
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,go)]
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,go)
 
 <br>
 <br>
