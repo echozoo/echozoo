@@ -6,7 +6,7 @@
 
 #### Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,go)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,go)]
 
 <br>
 <br>
